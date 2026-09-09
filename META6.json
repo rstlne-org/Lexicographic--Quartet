@@ -1,0 +1,29 @@
+{
+  "auth": "zef:rstlne-org",
+  "authors": [
+    "Ben McMahon"
+  ],
+  "build-depends": [],
+  "depends": [],
+  "description": "Parse comma-delimited quads by dynamic dispatch",
+  "name": "Lexicographic::Quartet",
+  "provides": {
+    "Lexicographic::Quartet": "lib/Lexicographic/Quartet.rakumod",
+    "Lexicographic::Quartet::_20260730210511111111": "lib/Lexicographic/Quartet/_20260730210511111111.rakumod",
+    "Lexicographic::Quartet::_20260730210511111111_11111111111111111111": "lib/Lexicographic/Quartet/_20260730210511111111_11111111111111111111.rakumod",
+    "Lexicographic::Quartet::_20260907115100000000": "lib/Lexicographic/Quartet/_20260907115100000000.rakumod"
+  },
+  "resources": [],
+  "source-url": "https://github.com/rstlne-org/Lexicographic--Quartet.git",
+  "support": {
+    "bugtracker": "https://github.com/rstlne-org/Lexicographic--Quartet/issues",
+    "email": "ben@rstlne.org",
+    "source": "https://github.com/rstlne-org/Lexicographic--Quartet.git"
+  },
+  "tags": [
+    "CSQ",
+    "GUTS"
+  ],
+  "test-depends": [],
+  "version": "0.0.1"
+}
